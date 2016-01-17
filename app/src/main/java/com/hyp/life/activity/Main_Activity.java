@@ -69,7 +69,7 @@ public class Main_Activity extends ActionBarActivity implements View.OnClickList
         ActionBar actionBar = getSupportActionBar();
         actionBar.setDisplayShowHomeEnabled(true);
         actionBar.setDisplayHomeAsUpEnabled(true);
-        actionBarDrawerToggle = new ActionBarDrawerToggle(this,drawer,toolbar,R.string.abc_action_bar_home_description,R.string.abc_action_bar_home_description_format);
+        actionBarDrawerToggle = new ActionBarDrawerToggle(this,drawer,toolbar,R.string.navigation_drawer_open,R.string.navigation_drawer_close);
 
         actionBarDrawerToggle.syncState();
 
