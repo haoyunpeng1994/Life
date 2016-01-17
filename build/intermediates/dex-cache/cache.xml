@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\acer\.gradle\caches\modules-2\files-2.1\cn.bmob.android\bmob-push\0.6\db21ec99c2c7bf91c67bf80f5c5c49a92dd0562e\bmob-push-0.6.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="db21ec99c2c7bf91c67bf80f5c5c49a92dd0562e">
+        <dex dex="C:\Users\acer\AndroidStudioProjects\Life\app\build\intermediates\pre-dexed\debug\bmob-push-0.6-549f94512837e2670dae80262b00276a0e0c966f.jar" />
+    </item>
+    <item
+        jar="C:\Users\acer\.gradle\caches\modules-2\files-2.1\cn.bmob.android\bmob-sdk\3.4.5\44e559d18fd5a4826b0a4c0354308213e4f658a2\bmob-sdk-3.4.5.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="44e559d18fd5a4826b0a4c0354308213e4f658a2">
+        <dex dex="C:\Users\acer\AndroidStudioProjects\Life\app\build\intermediates\pre-dexed\debug\bmob-sdk-3.4.5-209c45438c47ebeebf2150e0c39a65cc5ccd1d98.jar" />
+    </item>
+    <item
+        jar="C:\Users\acer\.gradle\caches\modules-2\files-2.1\cn.bmob.android\bmob-sms\1.0.1\df9db564e2842696a68deca39b0186aebf3dc07c\bmob-sms-1.0.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="df9db564e2842696a68deca39b0186aebf3dc07c">
+        <dex dex="C:\Users\acer\AndroidStudioProjects\Life\app\build\intermediates\pre-dexed\debug\bmob-sms-1.0.1-ad189062ed350780d1f93d48c4cd86f1770069e5.jar" />
+    </item>
+
+</items>

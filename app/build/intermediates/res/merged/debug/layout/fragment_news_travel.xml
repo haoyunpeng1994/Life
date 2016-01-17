@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/black">
+    <RelativeLayout
+        android:id="@+id/loading"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <ProgressBar
+            android:id="@+id/progressBar"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_centerInParent="true"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="正在加载"
+            android:textSize="16sp"
+            android:layout_below="@id/progressBar"
+            android:layout_centerHorizontal="true"/>
+    </RelativeLayout>
+    <com.hyp.life.view.XListView
+        android:id="@+id/lv_travel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="gone">
+    </com.hyp.life.view.XListView>
+</LinearLayout><!-- From: file:/C:/Users/acer/AndroidStudioProjects/Life/app/src/main/res/layout/fragment_news_travel.xml -->

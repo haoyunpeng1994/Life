@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/acer/AndroidStudioProjects/Life/app/src/main/res/values-w820dp/attrs.xml -->
+    <eat-comment/>
+    <declare-styleable name="PagerSlidingTab">
+        <attr format="color" name="indicatorColor"/>
+        <attr format="color" name="underlineColor"/>
+        <attr format="color" name="dividerColor"/>
+        <attr format="dimension" name="indicatorHeight"/>
+        <attr format="dimension" name="underlineHeight"/>
+        <attr format="dimension" name="pst_dividerPadding"/>
+        <attr format="dimension" name="tabPaddingLeftRight"/>
+        <attr format="dimension" name="scrollOffset"/>
+        <attr format="reference" name="tabBackground"/>
+        <attr format="boolean" name="shouldExpand"/>
+        <attr format="boolean" name="pst_textAllCaps"/>
+    </declare-styleable>
+    <!-- From: file:/C:/Users/acer/AndroidStudioProjects/Life/app/src/main/res/values-w820dp/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">64dp</dimen>
+</resources>

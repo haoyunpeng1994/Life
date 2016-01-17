@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="AnimatedCircleLoadingView"><attr format="color" localization="suggested" name="mainColor"/><attr format="color" localization="suggested" name="secondaryColor"/></declare-styleable>
+    <!-- From: file:/Users/Joselu/Dev/Workspace/Android/AnimatedCircleLoadingView/library/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">library</string>
+</resources>
